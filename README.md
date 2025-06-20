@@ -6,7 +6,7 @@ A responsive and interactive Burger Builder web application built using **HTML**
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live site](https://gowthammayakannan.github.io/Burger-website/)
+🔗 https://gowthammayakannan.github.io/Burger-Website/
 
 ---
 
@@ -26,12 +26,6 @@ A responsive and interactive Burger Builder web application built using **HTML**
 - **CSS3** – For styling and responsiveness
 - **JavaScript (Vanilla)** – For interactivity and logic
 - **GitHub Pages** – For free static site hosting
-
----
-
-## 📷 Preview
-
-![burger-preview](https://github.com/gowthammayakannan/Burger-website/assets/your-image-id) <!-- Optional: If you want to add a screenshot -->
 
 ---
 
